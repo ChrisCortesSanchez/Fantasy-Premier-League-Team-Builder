@@ -4,10 +4,8 @@ The Fantasy Premier League Team Builder is a Python-based tool designed to enhan
 
 Features
 Live Player Data: Gather up-to-date player statistics, form, and other key performance indicators from the official FPL website using web scraping techniques.
-Team Analysis: Analyze your current FPL team's composition, including player positions, prices, and overall team balance.
-Transfer Recommendations: Receive data-driven transfer suggestions based on player performance, upcoming fixtures, and budget constraints.
-Fixture Analysis: Access upcoming fixture information to make informed decisions on captaincy, substitutions, and tactical adjustments.
-Interactive Interface: Enjoy a user-friendly command-line interface that allows you to easily input your team details, preferences, and receive tailored recommendations.
+Team Analysis: Utilizes up-to-date player statistics, form, and other key performance indicators from the official FPL website to create an ideal starting eleven for your fantasy team
+
 Installation
 Clone this repository: git clone https://github.com/yourusername/Fantasy-Premier-League-Team-Builder.git
 Navigate to the project directory: cd Fantasy-Premier-League-Team-Builder
